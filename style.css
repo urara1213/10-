@@ -74,7 +74,7 @@ footer {
   .box {
     margin: auto;
     margin-bottom: 20px;
-    width: 90%;
+    width: 100%;
   }
   .box:last-child {
     margin: auto;
